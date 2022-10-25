@@ -1,0 +1,23 @@
+{
+  "name": "otus_hw-lesson_6",
+  "version": "1.0.0",
+  "description": "В данном задание нужно:  - создать репозиторий;  - инициировать проект в репозитории;  - решить предложенные задачи (разместив код и тесты в директории src);  - покрыть решение задач автоматическими тестами;  - сделать коммит (а лучше несколько - по одному на задание);  - открыть пуллреквест;  - настроить хуки (GitHub Actions) таким образом, чтобы при пуллреквесте создавалась ссылка на codesandbox и запускался линтер;",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marat-Medvedev/otus_hw-lesson_6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marat-Medvedev/otus_hw-lesson_6/issues"
+  },
+  "homepage": "https://github.com/Marat-Medvedev/otus_hw-lesson_6#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
