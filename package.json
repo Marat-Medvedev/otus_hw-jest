@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Marat-Medvedev/otus_hw-lesson_6#readme",
   "devDependencies": {
-    "jest": "^29.2.2"
+    "jest": "^29.2.2",
+    "jest-environment-jsdom": "^29.2.2"
   }
 }
